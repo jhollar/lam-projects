@@ -1,0 +1,10 @@
+black
+beautifulsoup4
+lavague
+lavague-core
+nltk
+python-dotenv
+requests
+transformers
+wikipedia
+
